@@ -7,5 +7,16 @@ How is the staging area different from the working directory and the repository?
 The staging area shows last changes in the repository that haven't been commited. It offers a control area for you, you don't have to worry
 about what you have done yet or not.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Checking with get diff --staged that there is only one logical change to commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When I want to change my code but i want to mantain the original one: experimental goal, lenguage change...
+
+
+
+
 
 
