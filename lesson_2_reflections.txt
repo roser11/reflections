@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A new repository is created in the floder that we are. We need it to include history and files that git nit to do the control version.
