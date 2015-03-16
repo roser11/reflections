@@ -15,7 +15,10 @@ What are some situations when branches would be helpful in keeping your history 
 
 When I want to change my code but i want to mantain the original one: experimental goal, lenguage change...
 
+How do the diagrams help you visualize the branch structure?
 
+Yo can see in which branch you are working and parents of each commit. So you can see if your new commit is reachable or not and if your
+changes are affecting to your diagram
 
 
 
