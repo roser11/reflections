@@ -1,1 +1,7 @@
 I'm creating new file in Github
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks is between github repositories, clone is for your local and your github account and branches is inside a repository.
+
+If I'm working with sb i will use fork. If i'm working alone i will use clone to get locally my github repository and i will use branch if I want to change de code, I have a new idea, something is in production...
